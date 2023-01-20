@@ -1,5 +1,8 @@
-#Face Detection System using OpenCV
-This repository contains a simple face detection system implemented using the OpenCV library. The system is able to detect faces in an image or video stream and draw a bounding box around the detected face.
+#Face Detection System using OPENCV
+
+
+
+##This repository contains a simple face detection system implemented using the OpenCV library. The system is able to detect faces in an image or video stream and draw a bounding box around the detected face.
 
 Requirements
 Python 3.x
