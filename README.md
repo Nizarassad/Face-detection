@@ -23,15 +23,8 @@
 
 #### The system uses a Haar cascade classifier for face detection, which is a machine learning based approach. The classifier is trained on a dataset of positive and negative images, and is able to detect faces with high accuracy. However, it may not work well for all types of faces or in all lighting conditions.
 
-#### Future Work:
-   #### - Improving the accuracy of the classifier by fine-tuning it on a specific dataset.
-   #### - Implementing more advanced algorithms for face detection such as deep learning based approaches.
-   #### - Incorporating face recognition functionality to identify individuals in the detected faces.
-   #### - Feel free to fork this repository and submit pull requests. If you have any questions or suggestions, please open an issue.
-
 
 #### Author
-
 Nizar Assad
 
 
